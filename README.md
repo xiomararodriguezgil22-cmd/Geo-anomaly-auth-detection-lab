@@ -188,7 +188,7 @@ VPN-authenticated events were analyzed using:
 vpn:true
 ```
 
-![VPN Activity](screenshots/vpn_activity.png)
+![VPN Activity](screenshots/vpn_loggins.png)
 
 Key findings:
 
