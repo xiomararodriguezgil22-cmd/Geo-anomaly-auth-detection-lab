@@ -114,7 +114,7 @@ Lab screenshots can be found in the following directory:
 
 This visualization helped identify the countries with the highest volume of authentication events within the dataset.
 
-![Country Activity](screenshots/country-activity.png)
+![Country Activity](screenshots/country.png)
 
 Key findings:
 
